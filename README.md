@@ -1,9 +1,9 @@
 KUSHWANTH BOINA
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/kushwanth-boina-a8359b181"
+icon = "linkedin"
+icon_pack = "fa"
+link = "//linkedin.com/in/kushwanth-boina-a8359b181"
 
 ### Hi there 👋
 I am Boina Kushwanth. My main interest lies in Machine Learning and Python. I also have basic knowledge of HTML and CSS. I am always curious to learn something new
