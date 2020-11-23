@@ -5,7 +5,7 @@ I am Boina Kushwanth. My main interest lies in Machine Learning and Python. I al
 - 👯 I’m looking to collaborate on ML,python projects 
 - 🤔 I’m looking for help with Internships
 - 💬 Ask me about Python,ML
-- 📫 How to reach me:***linkedin profile-KUSHWANTHBOINA or you can mail me-kushi944100@gmail.com***
+- 📫 How to reach me:**linkedin profile-KUSHWANTHBOINA or you can mail me - kushi944100@gmail.com**
 - 😄 Pronouns:you can give one
 - ⚡ Fun fact:i can work without music
 <!--
