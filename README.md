@@ -1,10 +1,6 @@
 KUSHWANTH BOINA
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[[params.social]]
-icon = "linkedin"
-icon_pack = "fa"
-link = "//linkedin.com/in/kushwanth-boina-a8359b181"
-
+**linkedin-** [kushwanthboina](https://www.linkedin.com/in/kushwanth-boina-a8359b181)
 ### Hi there 👋
 I am Boina Kushwanth. My main interest lies in Machine Learning and Python. I also have basic knowledge of HTML and CSS. I am always curious to learn something new
  🔭 I’m currently working on python and ML projects
@@ -12,7 +8,7 @@ I am Boina Kushwanth. My main interest lies in Machine Learning and Python. I al
 - 👯 I’m looking to collaborate on ML,python projects 
 - 🤔 I’m looking for help with Internships
 - 💬 Ask me about Python,ML
-- 📫 How to reach me:**linkedin profile-KUSHWANTHBOINA or you can mail me - kushi944100@gmail.com**
+- 📫 How to reach me:**you can mail me - kushi944100@gmail.com**
 - 😄 Pronouns:you can give one
 - ⚡ Fun fact:i can work without music
 <!--
@@ -25,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML,python projects 
 - 🤔 I’m looking for help with Internships
 - 💬 Ask me about Python,ML
-- 📫 How to reach me:***linkedin profile-KUSHWANTHBOINA or you can mail me-kushi944100@gmail.com***
+- 📫 How to reach me:***Mail ID-kushi944100@gmail.com***
 - 😄 Pronouns:you can give one
 - ⚡ Fun fact:i can work without music
 -->
