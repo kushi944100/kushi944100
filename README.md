@@ -1,5 +1,5 @@
 ### Hi there 👋
-####I am Boina Kushwanth. My main interest lies in Machine Learning and Python. I also have basic knowledge of HTML and CSS. I am always curious to learn something new
+I am Boina Kushwanth. My main interest lies in Machine Learning and Python. I also have basic knowledge of HTML and CSS. I am always curious to learn something new
 <!--
 **kushi944100/kushi944100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
