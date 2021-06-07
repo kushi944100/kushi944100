@@ -13,3 +13,4 @@ I am Boina Kushwanth. My main intrest lies in Machine Learning and Python also i
 - 📫 How to reach me:Contact me directly on this mail - kushi944100@gmail.com
 - 😄 Pronouns:you can give one
 - ⚡ Fun fact:i can work without music
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kushi944100&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
